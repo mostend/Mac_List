@@ -26,3 +26,6 @@
 | warp | 终端工具 | https://www.warp.dev/ | brew install warp |
 | IINA | 视频工具 | https://github.com/iina/iina | brew install iina |
 | Chrome | 浏览器 | https://www.google.com/chrome/ | brew install google-chrome | 
+| colima | docker轻量管理软件 | https://github.com/abiosoft/colima | brew install colima |
+| ollama | 本地AI | https://github.com/ollama/ollama |       |
+| StabilityMatrix | 本地AI生图软件 | https://github.com/LykosAI/StabilityMatrix |      |
