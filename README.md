@@ -1,7 +1,7 @@
 # Mac_List
 自用mac软件
 
-
+| :----: | :----: | :----: | :----: |
 | Mos | 鼠标平滑滚动软件 | https://github.com/Caldis/Mos | brew install mos | 
 | App Cleaner & Uninstaller | APP 卸载软件 |            |                  |
 | rectangle | 窗口管理软件 | https://github.com/rxhanson/Rectangle | brew install rectangle | 
