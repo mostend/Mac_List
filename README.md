@@ -1,7 +1,7 @@
 # Mac_List
 自用mac软件
 
-| 软件名 | 描述 | <div style="width:290px">地址</div> | 命令 |
+| 软件名 | 描述 | 地址 | 命令 |
 | :---- | :---- | :---- | :---- |
 | Mos | 鼠标平滑滚动软件 | https://github.com/Caldis/Mos | brew install mos | 
 | App Cleaner & Uninstaller | APP 卸载软件 |            |                  |
