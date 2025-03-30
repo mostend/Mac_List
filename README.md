@@ -21,7 +21,7 @@
 | Anydesk | 远程工具 | https://anydesk.com.cn/en | brew install anydesk |
 | PDFgear | PDF编辑软件 | https://www.pdfgear.com/ |        |
 | Draw.io | 画图软件 | https://github.com/jgraph/drawio-desktop | brew install drawio |
-| vscode | 编辑器 |  | brew install visual-studio-code | 
+| vscode | 编辑器 | https://code.visualstudio.com/ | brew install visual-studio-code | 
 | windterm | 远程连接工具 | https://github.com/kingToolbox/WindTerm |      |
 | warp | 终端工具 | https://www.warp.dev/ | brew install warp |
 | IINA | 视频工具 | https://github.com/iina/iina | brew install iina |
