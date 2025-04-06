@@ -29,4 +29,4 @@
 | colima | docker轻量管理软件 | https://github.com/abiosoft/colima | brew install colima |
 | ollama | 本地AI | https://github.com/ollama/ollama |       |
 | StabilityMatrix | 本地AI生图软件 | https://github.com/LykosAI/StabilityMatrix |      |
-| 懂的都懂，注入工具 | 注入工具 | https://github.com/QiuChenly/InjectLib |      |
+| InjectLib | 注入工具 | https://github.com/QiuChenly/InjectLib |      |
