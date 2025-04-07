@@ -10,7 +10,7 @@
 | keka | 解压缩软件 | https://github.com/aonez/Keka | brew install keka | 
 | longshot | 截图软件 | [商店](https://apps.apple.com/cn/app/longshot-%E6%88%AA%E5%9B%BE-ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/id6450262949?mt=12&l=cn) |        |
 | bob | 翻译软件 | [商店](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12) |    |
-| 自动切换输入法专业版 | 自动切换输入法 | [商店](https://apps.apple.com/cn/app/%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%93%E4%B8%9A%E7%89%88/id1551531632?mt=12) |   |
+| Input Source Pro | 自动切换输入法 | https://inputsource.pro/ | brew install --cask input-source-pro |
 | Latest | 软件更新工具 | https://github.com/mangerlahn/Latest |    |
 | LICEcap | 动态图软件 | https://www.cockos.com/licecap/ | brew install licecap | 
 | Gopeed | 下载软件 | https://gopeed.com/ |  |
