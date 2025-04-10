@@ -14,7 +14,7 @@
 | Input Source Pro | 自动切换输入法 | https://inputsource.pro/ | brew install --cask input-source-pro |
 | Latest | 软件更新工具 | https://github.com/mangerlahn/Latest |    |
 | LICEcap | 动态图软件 | https://www.cockos.com/licecap/ | brew install licecap | 
-| Gopeed | 下载软件 | https://gopeed.com/ |  |
+| Gopeed | 下载软件 | https://github.com/GopeedLab/gopeed |  |
 | v2rayN | 代理软件 | https://github.com/2dust/v2rayN |   |
 | hapigo | 启动增强软件 | https://www.hapigo.com/ |     |
 | Ice | 菜单栏管理软件 | https://github.com/jordanbaird/Ice | brew install jordanbaird-ice |
