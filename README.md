@@ -30,6 +30,6 @@
 | colima | docker轻量管理软件 | https://github.com/abiosoft/colima | brew install colima |
 | ollama | 本地AI | https://github.com/ollama/ollama |       |
 | StabilityMatrix | 本地AI生图软件 | https://github.com/LykosAI/StabilityMatrix |      |
-| InjectLib | 注入工具 | https://github.com/QiuChenly/InjectLib |      |
+| CoreInject | 注入工具 | https://github.com/QiuChenly/CoreInject |      |
 | OrbStack | 轻量化虚拟机 | https://orbstack.dev/ |          |
 |QuickRecorder | 录屏软件 | https://github.com/lihaoyun6/QuickRecorder | brew install lihaoyun6/tap/quickrecorder |
