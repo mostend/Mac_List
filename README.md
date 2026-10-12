@@ -9,7 +9,7 @@
 | Rectangle | 窗口管理软件 |http://github.com/rxhanson/Rectangle|brew install Rectangle|
 | 右键助手专业版 | 右键菜单管理软件 | [商店](https://apps.apple.com/us/app/mouseboost-pro/id1555844307?mt=12) |      |
 | keka | 解压缩软件 | https://github.com/aonez/Keka | brew install keka | 
-| longshot | 截图软件 | [商店](https://apps.apple.com/cn/app/longshot-%E6%88%AA%E5%9B%BE-ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/id6450262949?mt=12&l=cn) |        |
+| macshot | 截图软件 | https://github.com/sw33tLie/macshot | brew install --cask macshot  |
 | bob | 翻译软件 | [商店](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12) |    |
 | Input Source Pro | 自动切换输入法 | https://inputsource.pro/ | brew install --cask input-source-pro |
 | Latest | 软件更新工具 | https://github.com/mangerlahn/Latest |    |
@@ -32,4 +32,4 @@
 | StabilityMatrix | 本地AI生图软件 | https://github.com/LykosAI/StabilityMatrix |      |
 | CoreInject | 注入工具 | https://github.com/QiuChenly/CoreInject |      |
 | OrbStack | 轻量化虚拟机 | https://orbstack.dev/ |          |
-|QuickRecorder | 录屏软件 | https://github.com/lihaoyun6/QuickRecorder | brew install lihaoyun6/tap/quickrecorder |
+| QuickRecorder | 录屏软件 | https://github.com/lihaoyun6/QuickRecorder | brew install lihaoyun6/tap/quickrecorder |
