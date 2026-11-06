@@ -10,7 +10,7 @@
 | LayoutKeeper | 外接屏窗口与多桌面布局自动恢复 | https://github.com/tumingke0/LayoutKeeper | brew tap tumingke0/tap && brew install --cask layoutkeeper |
 | 右键助手专业版 | 右键菜单管理软件 | [商店](https://apps.apple.com/us/app/mouseboost-pro/id1555844307?mt=12) |      |
 | keka | 解压缩软件 | https://github.com/aonez/Keka | brew install keka | 
-| macshot | 截图软件 | https://github.com/sw33tLie/macshot | brew install --cask macshot  |
+| capcap | 截图软件 | [https://github.com/sw33tLie/macshot](https://github.com/realskyrin/capcap) | brew tap realskyrin/tap && brew trust realskyrin/capcap && brew install --cask realskyrin/tap/capcap  |
 | bob | 翻译软件 | [商店](https://apps.apple.com/cn/app/bob-%E7%BF%BB%E8%AF%91%E5%92%8C-ocr-%E5%B7%A5%E5%85%B7/id1630034110?mt=12) |    |
 | Input Source Pro | 自动切换输入法 | https://inputsource.pro/ | brew install --cask input-source-pro |
 | Latest | 软件更新工具 | https://github.com/mangerlahn/Latest |    |
