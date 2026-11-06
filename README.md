@@ -7,6 +7,7 @@
 | App Cleaner & Uninstaller | APP 卸载软件 |            |                  |
 | Loop | 窗口管理软件 | https://github.com/MrKai77/Loop | brew install loop | 
 | Rectangle | 窗口管理软件 |http://github.com/rxhanson/Rectangle|brew install Rectangle|
+| LayoutKeeper | 外接屏窗口与多桌面布局自动恢复 | https://github.com/tumingke0/LayoutKeeper | brew tap tumingke0/tap && brew install --cask layoutkeeper |
 | 右键助手专业版 | 右键菜单管理软件 | [商店](https://apps.apple.com/us/app/mouseboost-pro/id1555844307?mt=12) |      |
 | keka | 解压缩软件 | https://github.com/aonez/Keka | brew install keka | 
 | macshot | 截图软件 | https://github.com/sw33tLie/macshot | brew install --cask macshot  |
