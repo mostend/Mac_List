@@ -5,6 +5,7 @@
 | :---- | :---- | :---- | :---- |
 | Mos | 鼠标平滑滚动软件 | https://github.com/Caldis/Mos | brew install mos | 
 | App Cleaner & Uninstaller | APP 卸载软件 |            |                  |
+| MacClean | 原生 macOS 清理：微信/QQ/企微缓存、Xcode/AI 缓存、大文件与可视化 Storage Map（扫盘免费 / 终身 ¥98） | https://thulem.com/ | brew install --cask jinglings/macclean/macclean |
 | Loop | 窗口管理软件 | https://github.com/MrKai77/Loop | brew install loop | 
 | Rectangle | 窗口管理软件 |http://github.com/rxhanson/Rectangle|brew install Rectangle|
 | LayoutKeeper | 外接屏窗口与多桌面布局自动恢复 | https://github.com/tumingke0/LayoutKeeper | brew tap tumingke0/tap && brew install --cask layoutkeeper |
